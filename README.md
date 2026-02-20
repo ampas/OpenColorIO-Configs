@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/status-obsolete-red)
+
 # OpenColorIO Configurations (Legacy)
 
 > [!CAUTION]
